@@ -1,8 +1,3 @@
-avatar:
-  url: ../images/avatar.jpg
-  rounded: true
-  opacity: 1
-
 colors:
   primary: "#6200ee"
   # bg: "#F5F5F5"
@@ -28,7 +23,8 @@ tags:
 head:
   css:
     custom: ../css/custom.css
-  favicon: ../cat.svg
+
+favicon: ../cat.svg
 
 categories:
   笔记: dimgray
@@ -131,3 +127,70 @@ banner:
 notice:
   enable: true
   content: 恭喜你发现我的一片小世界。
+
+bg_image:
+  enable: true
+  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
+search:
+  modal: true
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-2.jpg
+  # dark_bg_image: xxx
+  placeholder: 搜索文章
+
+fireworks:
+  enable: true
+  colors:
+    - "142, 113, 193"
+    - "181, 117, 217"
+    - "126, 117, 217"
+
+cursor:
+  enable: false
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+# 侧边栏
+sidebar:
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-1.jpg
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: false
+    amount: 20
+
+avatar:
+  url: ../images/avatar.jpg
+  rounded: true
+  opacity: 1
+  
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /tags/
+      icon: icon-price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: icon-cloud-line
+    #   count: 你猜
+  custom:
+    title: 文档
+    path: https://yun.yunyoujun.cn
+    icon: icon-settings-line
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: icon-genderless-line
+    color: dodgerblue
