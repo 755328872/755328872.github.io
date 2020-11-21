@@ -104,6 +104,6 @@ theme: yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/755328872/755328872.github.io.git
+  repo: https://github.com/755328872/755328872.github.io
   branch: master
   message: hello world!
