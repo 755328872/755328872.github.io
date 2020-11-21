@@ -27,8 +27,8 @@ tags:
 
 head:
   css:
-    custom: /css/custom.css
-  favicon: /cat.svg
+    custom: ../css/custom.css
+  favicon: ../cat.svg
 
 categories:
   笔记: dimgray
@@ -115,3 +115,19 @@ social:
     link: https://www.baidu.com
     icon: icon-send-plane-2-line
     color: black
+
+banner:
+  enable: true
+  title: 花降的小站
+  # src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "pink"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+notice:
+  enable: true
+  content: 恭喜你发现我的一片小世界。
