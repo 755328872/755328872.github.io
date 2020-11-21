@@ -25,6 +25,11 @@ tags:
   TypeScript: "#317AC6"
   Laravel: "#F4645F"
 
+head:
+  css:
+    custom: /css/custom.css
+  favicon: /cat.svg
+
 categories:
   笔记: dimgray
 
