@@ -1,0 +1,13 @@
+<svg id="yun-logo">
+  <style>
+    #yun-logo {
+      stroke: black;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #yun-logo {
+        stroke: white;
+      }
+    }
+  </style>
+</svg>
