@@ -263,3 +263,49 @@ toc:
 post_edit:
   enable: true
   url: https://github.com/755328872/755328872.github.io/
+
+  # 版权
+creative_commons:
+  license: by-nc-sa
+  post: true
+  language: deed.zh
+  clipboard: false
+
+# 打赏
+reward:
+  enable: false
+
+# 页脚
+footer:
+  since: 2020
+  icon:
+    name: icon-cloud-line
+    animated: true
+    color: "#0078E7"
+  powered:
+    enable: true
+  beian:
+    enable: false
+    # icp: 苏ICP备xxxxxxxx号
+  live_time:
+    enable: false
+    prefix: 本博客已运行
+    suffix: (●'◡'●)
+    start_time: "2020-11-20T00:00:00"
+  custom_text:
+
+# Say(随机在网站主页显示一句中二话)
+say:
+  enable: true
+  api: https://cdn.jsdelivr.net/gh/ElpsyCN/say@gh-pages/sentences.json
+  src: /js/say.js
+  # https://developer.hitokoto.cn/sentence/
+  hitokoto:
+    enable: true
+    api: https://v1.hitokoto.cn
+
+# 默哀日
+mourn:
+  enable: false
+  days:
+    - "4-4"
