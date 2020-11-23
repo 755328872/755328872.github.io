@@ -31,7 +31,7 @@ categories:
 
 # CDN
 cdn:
-  pre: ""
+  pre: "https://cdn.jsdelivr.net/gh/755328872/755328872.github.io@master"
   css:
   js:
     base:
