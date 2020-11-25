@@ -16,5 +16,5 @@ links:
     color: "#0078e7" # 代表色
     email: chenyh369@mail2.sysu.edu.cn
 placeholder: 还没想好说些什么 # 默认对友链的描述
-tip: 友链加载中～如失败请刷新重试～
+tip: 友链加载中～如失败请刷新重试～再不行请联系博主
 ---

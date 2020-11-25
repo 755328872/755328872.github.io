@@ -180,7 +180,8 @@ sidebar:
     amount: 20
 
 avatar:
-  url: ./images/avatar.jpg
+  url: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io/images/avatar.jpg
+  # ./images/avatar.jpg
   rounded: true
   opacity: 1
   
