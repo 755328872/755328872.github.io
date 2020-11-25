@@ -1,13 +1,6 @@
 ---
-title: 关于为什么会有花降的博客这档事
-author: 花降
-date: 2020-11-19 19:51:25
-updated: 2020-11-25 13:04:34
-description: 
-categories:
-- 花降的随笔
-tags:
-- 随笔
+title: about
+date: 2020-11-25 13:12:42
 ---
 
 Hello，这里是花降，一个喜欢可爱女孩子的死宅（仅限二次元谢谢）
