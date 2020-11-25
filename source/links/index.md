@@ -7,11 +7,12 @@ description: 花降的小伙伴们
 comments: true
 links:
   - url: https://cleveryh.github.io
-    avatar: ../images/zhamao.jpg 
+    avatar: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io/images/zhamao.jpg
+    # ../images/zhamao.jpg 
     # https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io/images/avatar.jpg
     name: 炸毛
     blog: 炸毛的秘密基地
-    desc: 水激石则鸣，人激志则宏。
+    desc: Pas à pas, on va loin.
     color: "#0078e7" # 代表色
     email: chenyh369@mail2.sysu.edu.cn
 placeholder: 还没想好说些什么 # 默认对友链的描述
