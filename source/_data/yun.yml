@@ -35,7 +35,7 @@ categories:
 
 # CDN
 cdn:
-  pre: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io@master
+  pre: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io@latest
   css:
   js:
     base:
@@ -180,7 +180,7 @@ sidebar:
     amount: 20
 
 avatar:
-  url: ../images/avatar.jpg
+  url: ./images/avatar.jpg
   rounded: true
   opacity: 1
   
