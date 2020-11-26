@@ -107,3 +107,34 @@ deploy:
   repo: https://github.com/755328872/755328872.github.io
   branch: master
   message: hello world!
+
+aplayer:
+  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
+  meting: true
+  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
+  # global: false
+  # asset_inject: false
+  # # https://github.com/metowolf/MetingJS/tree/v1.2#option
+  # widget:
+  #   enable: false
+  #   autoplay: false
+  #   # theme: "#2980b9"
+  #   loop: all
+  #   order: list
+  #   preload: auto
+  #   volume: 0.7
+  #   mutex: true
+  #   lrcType: 0
+  #   listFolded: false
+  #   listMaxHeight: 340px
+  #   audio:
+  #     - name: Sing
+  #       artist: Goose House
+  #       url: https://cdn.jsdelivr.net/gh/755328872/cdn/audio/sing.mp3
+  #       cover: https://cdn.jsdelivr.net/gh/755328872/cdn/img/bg/goose-house-phrase01.jpg
+  #   meting:
+  #     enable: true
+  #     id: 543208487
+  #     server: netease
+  #     type: playlist
