@@ -12,6 +12,7 @@
     "version": "5.2.0"
   },
   "dependencies": {
+    "chokidar": "^3.4.3",
     "hexo": "^5.0.0",
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
@@ -23,6 +24,7 @@
     "hexo-renderer-marked": "^3.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
-    "hexo-tag-aplayer": "^3.0.4"
+    "hexo-tag-aplayer": "^3.0.1",
+    "highlight.js": "^10.4.0"
   }
 }
