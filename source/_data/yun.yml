@@ -321,3 +321,38 @@ wordcount:
   enable: true
   count: true
   time: true
+
+# 评论
+comment:
+  enable: true
+  tips:
+    - 若您想及时得到回复提醒，建议跳转 GitHub Issues 评论。
+    - 若没有本文 Issue，您可以使用 Comment 模版新建
+  candidates:
+    - utterances
+
+github_issues:
+  enable: true
+  username: 755328872
+  repository: 755328872.github.io
+  filters: is:issue
+
+utterances:
+  enable: false
+  repo: 755328872/755328872.github.io
+  issue-term: pathname
+  # label: comment
+  theme: github-light
+
+# 搜索
+ # 搜索引擎
+engine_search:
+  enable: false
+  # href: "https://www.google.com/search?q=site:"
+  # # href: "https://www.baidu.com/s?wd=site:"
+  # # href: "https://www.bing.com/search?q=site:"
+  # domain: 755328872.github.io  # 自己网站的域名
+
+local_search:
+  enable: true
+  src: /js/search/local-search.js
