@@ -69,23 +69,23 @@ social:
     link: /atom.xml # config.feed.path
     icon: icon-rss-line
     color: orange
-  - name: QQ
-    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: https://user.qzone.qq.com/755328872
-    icon: icon-qq-line
-    color: "#12B7F5"
+  # - name: QQ
+  #   # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+  #   link: https://user.qzone.qq.com/755328872
+  #   icon: icon-qq-line
+  #   color: "#12B7F5"
   - name: GitHub
     link: https://github.com/755328872
     icon: icon-github-line
     color: "#181717"
-  - name: E-Mail
-    link: mailto:755328872@qq.com
-    icon: icon-mail-line
-    color: "#8E71C1"
-  - name: 微博
-    link: https://weibo.com/755328872lijunting
-    icon: icon-weibo-line
-    color: "#E6162D"
+  # - name: E-Mail
+  #   link: mailto:755328872@qq.com
+  #   icon: icon-mail-line
+  #   color: "#8E71C1"
+  # - name: 微博
+  #   link: https://weibo.com/755328872lijunting
+  #   icon: icon-weibo-line
+  #   color: "#E6162D"
   - name: 豆瓣
     link: https://www.douban.com/people/181685031/
     icon: icon-douban-line
@@ -102,30 +102,30 @@ social:
     link: https://space.bilibili.com/8095886
     icon: icon-bilibili-line
     color: "#FF8EB3"
-  - name: POPI
-    link: https://www.baidu.com
-    icon: icon-questionnaire-line
-    color: "#525252"
-  - name: 微信公众号
-    link: https://www.baidu.com
-    icon: icon-wechat-2-line
-    color: "#1AAD19"
-  - name: Twitter
-    link: https://www.baidu.com
-    icon: icon-twitter-line
-    color: "#1da1f2"
-  - name: Telegram
-    link: https://www.baidu.com
-    icon: icon-telegram-line
-    color: "#0088CC"
-  - name: Telegram Channel
-    link: https://www.baidu.com
-    icon: icon-telegram-fill
-    color: "#0088CC"
-  - name: Travelling
-    link: https://www.baidu.com
-    icon: icon-send-plane-2-line
-    color: black
+  # - name: POPI
+  #   link: https://www.baidu.com
+  #   icon: icon-questionnaire-line
+  #   color: "#525252"
+  # - name: 微信公众号
+  #   link: https://www.baidu.com
+  #   icon: icon-wechat-2-line
+  #   color: "#1AAD19"
+  # - name: Twitter
+  #   link: https://www.baidu.com
+  #   icon: icon-twitter-line
+  #   color: "#1da1f2"
+  # - name: Telegram
+  #   link: https://www.baidu.com
+  #   icon: icon-telegram-line
+  #   color: "#0088CC"
+  # - name: Telegram Channel
+  #   link: https://www.baidu.com
+  #   icon: icon-telegram-fill
+  #   color: "#0088CC"
+  # - name: Travelling
+  #   link: https://www.baidu.com
+  #   icon: icon-send-plane-2-line
+  #   color: black
 
 # 首页
 banner:

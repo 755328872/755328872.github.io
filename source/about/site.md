@@ -22,3 +22,7 @@ description: 站点更新
 
 优化文章语法与排版格式，添加分类、归档、标签、友链、About+404等页面
 删除测试用的Hello world文章
+
+### 2020-11-26
+
+成功添加hexo-tag-aplayer组件，并增加播放器
