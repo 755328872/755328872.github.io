@@ -17,6 +17,7 @@
     "hexo-deployer-git": "^2.1.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
+    "hexo-generator-feed": "^3.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-render-pug": "^2.1.4",
@@ -25,6 +26,7 @@
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
     "hexo-tag-aplayer": "^3.0.1",
+    "hexo-wordcount": "^6.0.1",
     "highlight.js": "^10.4.0"
   }
 }

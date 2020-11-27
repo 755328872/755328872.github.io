@@ -315,3 +315,9 @@ mourn:
   enable: false
   days:
     - "4-4"
+
+# 字数统计
+wordcount:
+  enable: true
+  count: true
+  time: true
