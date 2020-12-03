@@ -147,7 +147,7 @@ notice:
 # UI设置
 bg_image:
   enable: true
-  url: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-0-blur-30px.jpg
+  url: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io/images/girl-and-deer.png
   # dark:
   # blur: 30px # 设置背景模糊程度
   opacity: 0.8
@@ -294,10 +294,10 @@ footer:
     enable: false
     # icp: 苏ICP备xxxxxxxx号
   live_time:
-    enable: false
-    prefix: 本博客已运行
-    suffix: (●'◡'●)
-    start_time: "2020-11-20T00:00:00"
+    enable: true
+    prefix: 本博客已经开心地生活了
+    suffix: 啦(●'◡'●)
+    start_time: "2020-11-14T00:00:00"
   custom_text:
 
 # Say(随机在网站主页显示一句中二话)
@@ -354,5 +354,5 @@ engine_search:
   # domain: 755328872.github.io  # 自己网站的域名
 
 local_search:
-  enable: true
+  enable: false
   src: /js/search/local-search.js
