@@ -133,7 +133,7 @@ body::before {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url("https://cdn.jsdelivr.net/gh/755328872/755328872.github.io/images/girl-and-deer.png");
+  background-image: url("/images/girl-and-deer.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
