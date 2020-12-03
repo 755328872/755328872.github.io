@@ -212,6 +212,11 @@ pages:
     url: /links/
     icon: icon-genderless-line
     color: dodgerblue
+  - name: 可爱的女孩子们
+    url: /links/
+    icon: icon-women-line
+    color: lightpink
+  
 
 # 文章
 post_card:
