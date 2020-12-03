@@ -147,7 +147,7 @@ notice:
 # UI设置
 bg_image:
   enable: true
-  url: /images/girl-and-deer.png
+  url: https://cdn.jsdelivr.net/gh/755328872/755328872.github.io/images/girl-and-deer.png
   # dark:
   # blur: 30px # 设置背景模糊程度
   opacity: 0.8
@@ -356,3 +356,7 @@ engine_search:
 local_search:
   enable: false
   src: /js/search/local-search.js
+
+# Girls界面
+girls:
+  enable: true
