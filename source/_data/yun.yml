@@ -203,9 +203,9 @@ menu:
     #   icon: icon-cloud-line
     #   count: 你猜
   custom:
-    title: 文档
-    path: https://yun.yunyoujun.cn
-    icon: icon-settings-line
+    title: 留言板
+    path: /about/#comment
+    icon: icon-clipboard-line
 
 pages:
   - name: 我的小伙伴们
