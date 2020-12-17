@@ -26,3 +26,8 @@ description: 站点更新
 删除测试用的Hello world文章
 添加hexo-tag-aplayer组件，并增加播放器
 添加字数统计，简化侧边栏的部分图标
+
+### 2020-12
+
+更新了girls界面
+更新了之前写过的小诗和笔记
