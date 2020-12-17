@@ -1,5 +1,5 @@
 ---
-title: Haskell学习笔记
+title: Haskell 学习笔记
 author: 花降
 date: 2020-12-04 19:45:00
 description: Haskell学习笔记
