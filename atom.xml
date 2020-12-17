@@ -6,7 +6,7 @@
   <link href="http://www.flowerfall.com/atom.xml" rel="self"/>
   
   <link href="http://www.flowerfall.com/"/>
-  <updated>2020-11-25T14:17:11.256Z</updated>
+  <updated>2020-12-17T01:15:01.906Z</updated>
   <id>http://www.flowerfall.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Haskell学习笔记</title>
+    <link href="http://www.flowerfall.com/2020/12/04/Haskell_note/"/>
+    <id>http://www.flowerfall.com/2020/12/04/Haskell_note/</id>
+    <published>2020-12-04T11:45:00.000Z</published>
+    <updated>2020-12-17T01:15:01.906Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>点击链接可以跳转到笔记界面</strong></p>]]></content>
+    
+    
+    <summary type="html">Haskell学习笔记</summary>
+    
+    
+    
+    <category term="花降的编程笔记" scheme="http://www.flowerfall.com/categories/%E8%8A%B1%E9%99%8D%E7%9A%84%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="学习笔记" scheme="http://www.flowerfall.com/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>浅谈死亡与爱情观</title>
