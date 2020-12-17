@@ -6,7 +6,7 @@
   <link href="http://www.flowerfall.com/atom.xml" rel="self"/>
   
   <link href="http://www.flowerfall.com/"/>
-  <updated>2020-12-17T01:15:01.906Z</updated>
+  <updated>2020-12-17T01:23:10.283Z</updated>
   <id>http://www.flowerfall.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Haskell学习笔记</title>
+    <title>Haskell 学习笔记</title>
     <link href="http://www.flowerfall.com/2020/12/04/Haskell_note/"/>
     <id>http://www.flowerfall.com/2020/12/04/Haskell_note/</id>
     <published>2020-12-04T11:45:00.000Z</published>
-    <updated>2020-12-17T01:15:01.906Z</updated>
+    <updated>2020-12-17T01:23:10.283Z</updated>
     
     <content type="html"><![CDATA[<p><strong>点击链接可以跳转到笔记界面</strong></p>]]></content>
     
@@ -76,6 +76,31 @@
     
     
     <category term="随笔" scheme="http://www.flowerfall.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十一月的深海</title>
+    <link href="http://www.flowerfall.com/2020/11/05/eleven_sea/"/>
+    <id>http://www.flowerfall.com/2020/11/05/eleven_sea/</id>
+    <published>2020-11-05T15:01:00.000Z</published>
+    <updated>2020-12-17T01:38:25.828Z</updated>
+    
+    <content type="html"><![CDATA[<p>一首简单的诗x1.</p><a id="more"></a><p><strong>正文 - 2020/11/05</strong></p><p>想逃离十一月的深海<br>上岸喘口气<br>然后深吸一口海风<br>品尝风里淡淡的咸味<br>再堕入静谧的深蓝之中<br>向逐渐模糊的海平面投以一瞥<br>怀着远方的景<br>安然入眠</p><p><strong>后记 - 2020/12/17</strong></p><p>这是我当时朋友圈随便写的一首小诗，其实现在回头看来觉得写得不咋地，毕竟不是文学系专业= =<br>不过这也确实代表了我当时的某种状态<br>迷茫，疲惫，而又带着点虚无主义<br>觉得很想休息一下<br>虽然现在每天也在积极的休息睡大觉到7点(不是<br>但我并不觉得这有什么不好<br>偶尔也需要叹叹气<br>然后叹完气，拍拍脸，还不是得继续干下去呢<br>加油吧。</p>]]></content>
+    
+    
+    <summary type="html">随便写写的小诗x1</summary>
+    
+    
+    
+    <category term="花降的小诗" scheme="http://www.flowerfall.com/categories/%E8%8A%B1%E9%99%8D%E7%9A%84%E5%B0%8F%E8%AF%97/"/>
+    
+    
+    <category term="随笔" scheme="http://www.flowerfall.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="诗文" scheme="http://www.flowerfall.com/tags/%E8%AF%97%E6%96%87/"/>
+    
+    <category term="文学积累" scheme="http://www.flowerfall.com/tags/%E6%96%87%E5%AD%A6%E7%A7%AF%E7%B4%AF/"/>
     
   </entry>
   
